@@ -1,0 +1,11 @@
+C:\Users\orhan\source\repos\notebook\notebook\bin\Debug\notebook.exe.config
+C:\Users\orhan\source\repos\notebook\notebook\bin\Debug\notebook.exe
+C:\Users\orhan\source\repos\notebook\notebook\bin\Debug\notebook.pdb
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.csprojAssemblyReference.cache
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.Form1.resources
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.Properties.Resources.resources
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.csproj.GenerateResource.cache
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.csproj.CoreCompileInputs.cache
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.exe
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.pdb
+C:\Users\orhan\source\repos\notebook\notebook\obj\Debug\notebook.Form2.resources
